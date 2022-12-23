@@ -18,4 +18,4 @@ My text in the post.
 This is **bold** text, and this is *emphasized* text.
 Again **bold** again.
 
----
+---   
